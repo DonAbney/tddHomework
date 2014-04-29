@@ -1,0 +1,3 @@
+class GoonException extends Exception {
+
+}
